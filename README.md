@@ -13,3 +13,5 @@ If say "play music" or "play song", the app will play the songs in desired folde
 If say "stop music", the app will stop the misuc that it plays.
 
 If say "exit", app will be stopped.
+
+Note:- Before use the app, the folder which contain the songs to play should be updated acccording to users computer.
